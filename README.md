@@ -2,4 +2,4 @@
 Motion planning and collision avoidance using MPC and strong duality. 
 To run the code, you need to first install YALMIP, and IPOPT solver for nonlinear optimization. 
 
-<video src="video.mp4" width="320" height="200" controls preload>https://www.youtube.com/watch?v=qwJsLzFPVtw
+[![Alt text](https://img.youtube.com/vi/qwJsLzFPVtw/0.jpg)](https://www.youtube.com/watch?v=qwJsLzFPVtw)
