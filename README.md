@@ -6,3 +6,4 @@ To run the code, you need to first install YALMIP, and IPOPT solver for nonlinea
 <img src="https://github.com/RoyaFiroozi/Centralized-Planning/blob/master/Obstacle_Avoidance_Final.gif" width="700" />
 
 ### Platoon Reconfiguration Scenario
+<img src="https://github.com/RoyaFiroozi/Centralized-Planning/blob/master/Platoon_Reconfiguration.gif" width="700" />
