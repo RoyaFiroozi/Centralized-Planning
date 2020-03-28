@@ -1,5 +1,5 @@
 function [A, b] = rotation_translation(x0, theta, h, w)
-% x0 is 2by1 vector [x,y]' which represents the coordinates of the center of the vehicle
+% x0 is a 2by1 vector [x,y]' which represents the coordinates of the center of the vehicle
 % theta is the heading angle in radian
 % h is the total length of the vehicle
 % w is the width of the vehicle
