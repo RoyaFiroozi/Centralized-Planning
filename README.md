@@ -11,3 +11,4 @@ The requirements to run the code are MATLAB, YALMIP, and IPOPT solver for nonlin
 
 ### Platoon Reconfiguration Scenario
 <img src="https://github.com/RoyaFiroozi/Centralized-Planning/blob/master/Platoon_Reconfiguration.gif" width="700" />
+
